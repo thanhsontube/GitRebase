@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitRebase</string>
+    <string name="action_settings">Settings</string>
+</resources>
